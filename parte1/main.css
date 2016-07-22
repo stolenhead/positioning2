@@ -1,0 +1,22 @@
+
+.padre{
+    box-sizing: border-box;
+    background: red;
+    padding: 45px 40px 40px 45px;
+    width: 200px;
+    height: 200px;
+    margin: -7px;
+}
+.cajaa{
+    background-color:purple;
+    position: absolute;
+    width: 100px;
+    height:100px;
+}
+   .cajab{
+    background-color:yellow;
+    position: absolute;
+    width: 50px;
+    height:50px;
+}
+

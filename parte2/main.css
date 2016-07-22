@@ -1,0 +1,25 @@
+
+.padre{
+    box-sizing: border-box;
+    background: blue;
+    padding: 50px  50px;
+    width: 200px;
+    height: 200px;
+    margin: -8px;
+}
+.cajaa{
+    background-color:green;
+    position: absolute;
+    width: 100px;
+    height:100px;
+}
+   .cajab{
+    background-color:black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 50px;
+    height:50px;
+
+}
+

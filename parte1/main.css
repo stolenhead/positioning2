@@ -2,14 +2,14 @@
 .padre{
     box-sizing: border-box;
     background: red;
-    padding: 45px 40px 40px 45px;
+    padding: 45px ;
     width: 200px;
     height: 200px;
     margin: -7px;
 }
 .cajaa{
     background-color:purple;
-    position: absolute;
+    position: relative;
     width: 100px;
     height:100px;
 }
